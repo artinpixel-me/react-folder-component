@@ -1,65 +1,38 @@
-# react-folder-component README
+# Artinpixel React JS Folder Component
 
-This is the README for your extension "react-folder-component". After writing up a brief description, we recommend including the following sections.
+Extenção para criação de componentes React JS.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Cria a estrutura de pasta com os arquivos do componentes React JS.
 
-For example if there is an image subfolder under your extension project workspace:
+> Dica: Possibilidade de escolher a linguagem: TypeScript ou Javacript.
 
-\!\[feature X\]\(images/feature-x.png\)
+## Modo de Uso
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Utilize o menu de contexto para escolher entre: 
 
-## Requirements
+`Artinpixel - Criar Componente React JS`
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+ou
+
+`Artinpixel - Criar Componente React JS (Com Styles)`
+
+O mesmo pode ser executado pelo `command palette` [command+shift+p] no Mac ou [ctrl+shif+p] no Windows/Linux.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+A personalização do conteúdo dos templates são configuráveis em através de um `array`
 
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
+Versão Atual
 
 ### 1.0.0
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
 -----------------------------------------------------------------------------------------------------------
 
-## Working with Markdown
+### Informações
 
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Artinpixel Desenvolvimento de Softwares](http://artinpixel.me)
+* [E-mail: dev@artinpixel.me](mailto:dev@artinpixel.me)
 
 **Enjoy!**
